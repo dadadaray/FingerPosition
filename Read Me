@@ -1,3 +1,3 @@
 At present, we provide the comparison results and procedures of AP selection algorithms in area 2.
-main_ run_ APselection.m is the main function, which can provide the experimental results of diod and IOD.
+main_ run_ APselection.m is the main function, which can provide the experimental results of DIOD and IOD.
 If our article is accepted, we will open source all the code.
